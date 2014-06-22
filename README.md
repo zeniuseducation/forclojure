@@ -1,7 +1,7 @@
-# forclojure
+# 4Clojure solutions
 
-My Solutions to 4 clojures, I use expectations style from Jayfields. So the unit tests resides in test folders,
- whereas the functions resides in source codes.
+My Solutions to 4clojure.com problems, I use expectations from Jayfields to make the workflow.
+So far all the codes are in test directory where I can simply edit the test files and run from there.
 
 ## Usage
 
@@ -11,5 +11,4 @@ From project folder, run "lein expectations"
 
 Copyright © 2014 Paul Sabda of Zenius Education
 
-Distributed under the Eclipse Public License either version 1.0 or (at
-your option) any later version.
+Distributed under the Eclipse Public License v 1.0 same as clojure & 4clojure.
