@@ -31,14 +31,18 @@ Change this to
 
 + Create a file in your folder and namespacing it according to the rules
 + Copy-paste 4clojure test cases to the file
-+ Replace "__" with the function name you create for that
++ Replace "__" with the function name you create for that particular problem (or simply name your function __)
 + Replace "=" with "expect"
-+ and your good to go...
++ and you're good to go...
 
 
 ## Running the test cases
 
 From project folder, run "lein expectations"
+
+## Caveat
+
+We're together in this, one made a mistake the failure/error will be shown to all
 
 ## License
 
