@@ -35,6 +35,10 @@ Change this to
 + Replace "=" with "expect"
 + and you're good to go...
 
+## Helping others with the chores
+
++ You might as well create a file in resources directory, and fill it with copased test-cases for a particular problem :)
++ Or perhaps find the gist for that problem
 
 ## Running the test cases
 

@@ -1,4 +1,4 @@
-(ns forclojure.f106
+(ns forclojure.squest.f106
   (:use [expectations]))
 
 (def fd (fn [n] (* 2 n)))

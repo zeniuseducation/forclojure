@@ -1,4 +1,4 @@
-(ns forclojure.f82
+(ns forclojure.squest.f82
   (:use [expectations]
         [clojure.set :as cs]))
 

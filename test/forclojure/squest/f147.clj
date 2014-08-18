@@ -1,4 +1,4 @@
-(ns forclojure.f147
+(ns forclojure.squest.f147
   (:use [expectations]))
 
 (defn f147 [col]

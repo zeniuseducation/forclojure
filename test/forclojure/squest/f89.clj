@@ -1,4 +1,4 @@
-(ns forclojure.f89
+(ns forclojure.squest.f89
   (:use [expectations]))
 
 (defn f89

@@ -1,4 +1,4 @@
-(ns forclojure.f178
+(ns forclojure.squest.f178
   (:use [expectations]))
 
 (def raw-rank "23456789TJQKA")

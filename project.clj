@@ -1,5 +1,5 @@
 (defproject forclojure "0.1.0"
-  :description "My solutions to 4Clojure.com"
+  :description "Zenius solutions to 4Clojure"
   :url "http://example.com/FIXME"
   :license {:name "Eclipse Public License"
             :url "http://www.eclipse.org/legal/epl-v10.html"}
