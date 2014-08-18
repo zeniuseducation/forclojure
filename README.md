@@ -42,7 +42,7 @@ From project folder, run "lein expectations"
 
 ## Caveat
 
-We're together in this, one made a mistake the failure/error will be shown to all
+We're in this together, one made a mistake the failure/error will be shown to all :)
 
 ## License
 
