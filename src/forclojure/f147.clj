@@ -1,1 +1,0 @@
-(ns forclojure.f147)
