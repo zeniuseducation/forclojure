@@ -17,15 +17,19 @@ Example of test-case usage
 
 4Clojure style:
 
-	 (= 3 (+ 1 2))
+```clojure
 
-	 (= 12 (square 3))
+(= 3 (+ 1 2))
+
+(= 12 (square 3))
 
 Change this to 
 
-       (expect 3 (+ 1 2))
+```clojure
 
-       (expect 12 (square 4))
+(expect 3 (+ 1 2))
+
+(expect 12 (square 4))
 
 ## Typical workflow
 
