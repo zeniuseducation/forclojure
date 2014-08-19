@@ -23,6 +23,8 @@ Example of test-case usage
 
 (= 12 (square 3))
 
+```
+
 Change this to 
 
 ```clojure
@@ -30,6 +32,8 @@ Change this to
 (expect 3 (+ 1 2))
 
 (expect 12 (square 4))
+
+```
 
 ## Typical workflow
 
