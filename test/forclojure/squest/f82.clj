@@ -7,7 +7,6 @@
 
 (def abjad (set (concat "abcdefghijklmnopq" "rstuvwxyz")))
 
-
 (defn f82
   [st]
   true)
